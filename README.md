@@ -1,2 +1,2 @@
 # desafio-controle-fluxo
-Exercício pela Digital Inovation One relacionado ao controle de fluxo
+Exercício proposto pela Digital Inovation One relacionado relacionado ao controle de fluxo e excessões costumizadas.
